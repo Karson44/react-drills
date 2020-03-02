@@ -1,6 +1,25 @@
 .App {
   text-align: center;
 }
+.matt {
+  background: rgb(47, 255, 47);
+  width: 300px;
+  height: 300px;
+  border-radius: 55%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.karson {
+  background: rgb(255, 255, 61);
+  width: 300px;
+  height: 300px;
+  border-radius: 55%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
 
 .App-logo {
   height: 40vmin;
